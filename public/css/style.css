@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+* {
+	font-family: 'Josefin Sans', sans-serif;
+}
+.sidenav-overlay {
+	opacity: 1!important;
+	display: none!important;
+}
+.responsive {
+	margin: 40.6px 0;
+	overflow-x: auto;
+}
+.scroll {
+	overflow-x: auto;
+}
+#teams {
+	margin-top: 40.6px;
+}
+#teams li {
+	margin: 12px;
+	display: inline;
+}
+table.fixed { table-layout:fixed; }
+table.fixed td { overflow: hidden }
+.flex { 
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}

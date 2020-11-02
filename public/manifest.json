@@ -1,0 +1,97 @@
+{
+    "name": "BOOLAA",
+    "gcm_sender_id": "226408958564",
+    "short_name": "BOOLAA",
+    "description": "Aplikasi informasi sepak bola premier league",
+    "start_url": "/index.html",
+    "background_color": "#263238",
+    "theme_color": "#263238",
+    "display": "standalone",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/images/touch/icon-72x72.png",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/icon-96x96.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/icon-128x128.png",
+            "type": "image/png",
+            "sizes": "128x128",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/icon-256x256.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/icon-384x384.png",
+            "type": "image/png",
+            "sizes": "384x384",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/iconmaskable-72x72.png",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/iconmaskable-96x96.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/iconmaskable-128x128.png",
+            "type": "image/png",
+            "sizes": "128x128",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/iconmaskable-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/iconmaskable-256x256.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/iconmaskable-384x384.png",
+            "type": "image/png",
+            "sizes": "384x384",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/touch/iconmaskable-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ]
+}
