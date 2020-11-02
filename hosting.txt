@@ -1,0 +1,2 @@
+firebase hosting: https://b00laa.web.app/
+github page: https://github.com/MuhamadAzizi/boolaa/tree/master
